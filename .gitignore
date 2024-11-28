@@ -1,0 +1,6 @@
+#
+venv/*
+lsh_fast.egg-info
+dist/*
+.pytest_cache
+.coverage
